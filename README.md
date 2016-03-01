@@ -8,7 +8,7 @@ Todos los modelos en .stl y .obj disponibles de la colección macetazas http://w
 ![Diseño](https://github.com/UlisesGascon/Macetazas/blob/master/stormtrooper/images/design.jpg)
 
 **Nombre Obra:**
-Stromtrooper MaceTaza
+- Stromtrooper MaceTaza
 
 **Fecha:**
 - 28 de Febrero de 2016
@@ -21,5 +21,6 @@ Stromtrooper MaceTaza
 - Utilizar relleno 20%
 - Soporte "Touching buildingplate"
 
+**Descargas:**
 - [En Thingiverse](http://www.thingiverse.com/thing:1376538)
 - [En GitHub](https://github.com/UlisesGascon/Macetazas/tree/master/stormtrooper)
