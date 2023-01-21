@@ -1,3 +1,5 @@
+<h2 align="center">:warning: This repository is not longer maintained :warning:</h2>
+
 # Macetazas
 Todos los modelos en .stl y .obj disponibles de la colección macetazas http://www.thingiverse.com/UlisesGascon/collections/macetazas
 
